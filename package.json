@@ -1,0 +1,19 @@
+{
+  "name": "electron-todo-list",
+  "version": "1.0.0",
+  "description": "Electron Todo List Final JS final project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athori/Todo-List.git"
+  },
+  "author": "Jason Stass",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athori/Todo-List/issues"
+  },
+  "homepage": "https://github.com/athori/Todo-List#readme"
+}
